@@ -6,6 +6,7 @@ public class Variables {
         int b = 23;
         float c  = 5.5f;
         System.out.println(a+b);
+         System.out.println(c);
 
 
     }
