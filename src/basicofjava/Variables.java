@@ -1,12 +1,15 @@
 package basicofjava;
 
 public class Variables {
-     static void main(String[] args) {
-        int a = 5;
-        int b = 23;
-        float c  = 5.5f;
-        System.out.println(a+b);
-         System.out.println(c);
+     public static void main(String[] args) {
+        int age = 20;
+        double price  = 99.99;
+        boolean isJavaFun  =  true;
+        char name = 'A';
+        System.out.println("My age is:"+age);
+         System.out.println("price is:"+price);
+         System.out.println(isJavaFun);
+         System.out.println("My first  name letter  is:"+name);
 
 
     }
