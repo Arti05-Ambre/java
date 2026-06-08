@@ -10,9 +10,12 @@ public class Operator {
         System.out.println(n);
         n++;
         System.out.println(n);
+        ++n;
+        System.out.println(n);
         // n = n+m;
         //n+=m;
-        //n++
+        //n++;
+        //++n
 
 
 
