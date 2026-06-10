@@ -2,14 +2,16 @@ package basicofjava;
 
 public class Variables {
      public static void main(String[] args) {
-        int age = 20;
-        double price  = 99.99;
-        boolean isJavaFun  =  true;
-        char name = 'A';
-        System.out.println("My age is:"+age);
-         System.out.println("price is:"+price);
-         System.out.println(isJavaFun);
-         System.out.println("My first  name letter  is:"+name);
+         int a =  34;
+         char ch = 'A';
+         double d = 34.5;
+         float f = 34.8f;
+         long num = 94223482l;
+         boolean istrue = true;
+         byte b = 1;
+         short rt = 345;
+         String name = "Arti Dipak Ambre";
+
 
 
     }
