@@ -1,4 +1,4 @@
-package basicofjava;
+package controlflow;
 
 public class Ternaryop {
     static void main(String[] args) {
