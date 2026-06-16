@@ -1,28 +1,27 @@
 package controlflow;
-
 public class Switch {
     static void main() {
-        int a = 8;
-        switch(a) {
-            case 1:
+        char ch= 'J';
+        switch(ch) {
+            case 'A':
                 System.out.println("one");
                 break;
-            case 2:
+            case 'B':
                 System.out.println("Two");
                 break;
-            case 3:
+            case 'C':
                System.out.println("Three");
                break;
-            case 4:
+            case 'D':
                 System.out.println("Four");
                 break;
-            case 5:
+            case 'E':
                 System.out.println("Five");
                 break;
-            case 6:
+            case 'F':
                System.out.println("Six");
                break;
-            case 7:
+            case 'G':
                System.out.println("Seven");
                break;
             default:
