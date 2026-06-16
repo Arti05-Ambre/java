@@ -25,6 +25,8 @@ public class Switch {
             case 7:
                System.out.println("Seven");
                break;
+            default:
+                System.out.println("No ans found");
 
         }
     }
