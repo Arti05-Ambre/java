@@ -1,29 +1,20 @@
 package controlflow;
 public class Switch {
     static void main() {
-        char ch= 'J';
+        String ch= "abc";
         switch(ch) {
-            case 'A':
+            case "abc":
                 System.out.println("one");
                 break;
-            case 'B':
+            case "pqr":
                 System.out.println("Two");
                 break;
-            case 'C':
+            case "stu":
                System.out.println("Three");
                break;
-            case 'D':
+            case "xyz":
                 System.out.println("Four");
                 break;
-            case 'E':
-                System.out.println("Five");
-                break;
-            case 'F':
-               System.out.println("Six");
-               break;
-            case 'G':
-               System.out.println("Seven");
-               break;
             default:
                 System.out.println("No ans found");
 
