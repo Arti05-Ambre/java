@@ -6,7 +6,7 @@ public class Datatype {
        double b = 5.5;
         System.out.println(a+b);
     }
-
+ 
     }
  
 
