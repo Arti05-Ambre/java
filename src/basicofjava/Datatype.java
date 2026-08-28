@@ -7,6 +7,6 @@ public class Datatype {
         System.out.println(a+b); 
     }
  
-    }
+    } 
   
  
